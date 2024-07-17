@@ -56,7 +56,9 @@ Este proyecto es una demostración básica del uso de JPA (Java Persistence API)
 ## Parte 5: Inicializar la Base de Datos
 
 1. **Cargar Datos de Prueba:**
+2. 
    ![image](https://github.com/user-attachments/assets/6bb723cc-2ad7-4a2e-9cb3-7f96b091ccae)
+   
    
    ![image](https://github.com/user-attachments/assets/67a3954e-482e-4f28-ad28-22eb0cda867b)
 
