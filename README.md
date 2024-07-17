@@ -27,7 +27,7 @@ Este proyecto es una demostración básica del uso de JPA (Java Persistence API)
 ## Parte 2: Crear la Entidad y el Repositorio
 
 1. **Crear la Entidad Producto:**
-   - Crea un paquete llamado `model`.
+   - Creamos un paquete llamado `model`.
    - Dentro del paquete `model`, crea una clase `Producto` con los siguientes atributos:
      ![image](https://github.com/user-attachments/assets/f2e489f9-6468-440f-bd40-d3f28f49b8d1)
 
