@@ -41,6 +41,7 @@ Este proyecto es una demostración básica del uso de JPA (Java Persistence API)
 1. **Crear la Clase ProductoService:**
    - Creamos un paquete llamado `service`.
    - Dentro del paquete `service`, crea una clase `ProductoService` con métodos para manejar la lógica del negocio (CRUD).
+     
      ![image](https://github.com/user-attachments/assets/e63aaf1c-7a45-46f6-8c18-132a07d097a2)
       ![image](https://github.com/user-attachments/assets/1263f7a4-df25-420f-bcfa-573c68df66ff)
 
