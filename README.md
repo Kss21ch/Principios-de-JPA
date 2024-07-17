@@ -23,8 +23,6 @@ Este proyecto es una demostración básica del uso de JPA (Java Persistence API)
      - **Spring Web**
      - **Spring Data JPA**
      - **Base de datos relacional**
-   - Genera y descarga el proyecto.
-   - Abre el proyecto en tu IDE favorito.
 
 ## Parte 2: Crear la Entidad y el Repositorio
 
