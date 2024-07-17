@@ -34,7 +34,7 @@ Este proyecto es una demostración básica del uso de JPA (Java Persistence API)
      ![image](https://github.com/user-attachments/assets/f2e489f9-6468-440f-bd40-d3f28f49b8d1)
 
 2. **Crear el Repositorio ProductoRepository:**
-   - Crea un paquete llamado `repository`.
+   - Creamos un paquete llamado `repository`.
    - Dentro del paquete `repository`, crea una interfaz `ProductoRepository` que extienda `JpaRepository<Producto, Long>`.
      ![image](https://github.com/user-attachments/assets/04ec95d4-091d-4f14-b329-3d6570c70f44)
 
@@ -58,12 +58,13 @@ Este proyecto es una demostración básica del uso de JPA (Java Persistence API)
 
 1. **Cargar Datos de Prueba:**
    ![image](https://github.com/user-attachments/assets/6bb723cc-2ad7-4a2e-9cb3-7f96b091ccae)
+   
+   ![image](https://github.com/user-attachments/assets/67a3954e-482e-4f28-ad28-22eb0cda867b)
 
 ## Parte 6: Ejecutar y Probar la Aplicación
 
 1. **Ejecutar la Aplicación:**
   ![image](https://github.com/user-attachments/assets/38fb46a6-93d6-4271-95a2-3d10097d2270)
-
 
 2. **Probar los Endpoints:**
    - Usamos herramientas como Postman o cURL para probar los endpoints creado:
